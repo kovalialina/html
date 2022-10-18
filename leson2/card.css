@@ -1,0 +1,30 @@
+.box{
+    background: #fce8de;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card {
+    height: 340px;
+    width: 250px;
+    background: #cdd7f6;
+}
+.xxx {
+    box-sizing: border-box;
+    padding: 25px;
+    text-align: center;
+}
+
+.aaa {
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+}
+
+.fa-square {
+    font-size: 40px;
+}
+.square{
+    display: flex;
+    justify-content: center;
+
+}
