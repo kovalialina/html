@@ -1,0 +1,53 @@
+.father {
+    border: 2px solid black;
+    box-sizing: border-box;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.container {
+    height: 400px;
+    width: 661px;
+    background: silver;
+    border: 2px solid black;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    background: #9bafef;
+    height: 120px;
+    width: 120px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
+}
+
+.abc {
+    height: 50px;
+    width: 50px;
+    background: antiquewhite;
+    position: relative;
+    top: 90px;
+
+}
+.poo{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}

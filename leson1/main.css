@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+}
+h2 {
+    background: rgb(238, 135, 88);
+    color: #7c1313;
+    height: 100px;
+    width: 400px;
+}
+h1  {
+    background: rgba(250, 6, 62, 0.62);
+    color: #6e0a0a;
+}
+p {
+    background: rgb(236, 212, 92);
+    color: #653f0d;
+}
+ul {
+    background: #859ff3;
+    color: rgb(14, 26, 66);
+    height: 90px;
+    width: 450px;
+}
